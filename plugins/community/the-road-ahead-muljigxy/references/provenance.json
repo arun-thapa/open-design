@@ -1,0 +1,26 @@
+{
+  "candidateId": "8ff29302-3098-4c06-8751-127756d0e424",
+  "projectId": "7c16cbad-553c-4808-9912-9e786fee6695",
+  "runId": "5f939645-63bc-4f3a-9f8e-de00169fc989",
+  "conversationId": "4074d27f-d984-49c2-8b01-5d901b8b8b4d",
+  "provenance": {
+    "summary": "Detected from townhall-road-ahead-outline-and-script.md, townhall-road-ahead-outline-and-script-v1.md after a successful run.",
+    "detectedAt": 1790617540950
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "townhall-road-ahead-outline-and-script.md",
+      "label": "townhall-road-ahead-outline-and-script.md",
+      "size": 13285,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "townhall-road-ahead-outline-and-script-v1.md",
+      "label": "townhall-road-ahead-outline-and-script-v1.md",
+      "size": 20794,
+      "copied": true
+    }
+  ]
+}
